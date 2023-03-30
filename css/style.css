@@ -10,3 +10,18 @@
     clear: both;
 }
 
+body{
+    width: 70%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 0.9rem;
+}
+
+
