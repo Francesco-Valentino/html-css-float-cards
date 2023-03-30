@@ -35,7 +35,7 @@ p{
 }
 
 img{
-    width: 90px;
+    width: 75px;
 }
 
 .floating-card{
@@ -44,6 +44,7 @@ img{
 
 span{
     color: white;
+    line-height: 1.7rem;
 }
 
 #email{
