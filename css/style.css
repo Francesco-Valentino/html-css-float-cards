@@ -31,13 +31,18 @@ h1{
 p{
     font-size: 0.9rem;
     font-weight: 600;
+    line-height: 1.3rem;
 }
 
 .container{
     background-color: rgb(11, 11, 26);
-    width: 30.66%;
-    margin-right: 2%;
+    width: 28.66%;
     margin-bottom: 3rem;
+    margin-left: 2%;
+}
+
+.container:not(.farthest){
+    margin-right: 2%;
 }
 
 img{
