@@ -17,11 +17,15 @@ body{
 }
 
 h1{
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 p{
     font-size: 0.9rem;
+}
+
+img{
+    width: 90px;
 }
 
 
