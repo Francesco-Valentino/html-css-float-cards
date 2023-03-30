@@ -28,4 +28,8 @@ img{
     width: 90px;
 }
 
+.floating-card{
+    float: left;
+}
+
 
