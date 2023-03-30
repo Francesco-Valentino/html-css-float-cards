@@ -30,12 +30,24 @@ p{
     font-size: 0.9rem;
 }
 
+.container{
+    background-color: rgb(0, 0, 55);
+}
+
 img{
     width: 90px;
 }
 
 .floating-card{
     float: left;
+}
+
+span{
+    color: white;
+}
+
+#email{
+    color: lightskyblue;
 }
 
 
