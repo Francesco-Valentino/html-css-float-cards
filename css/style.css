@@ -32,6 +32,7 @@ p{
 
 .container{
     background-color: rgb(3, 3, 39);
+    width: 33%;
 }
 
 img{
@@ -42,13 +43,23 @@ img{
     float: left;
 }
 
-span{
-    color: white;
-    line-height: 1.7rem;
+.card{
+    padding-top: 0.3rem;
 }
 
-#email{
+span{
+    color: white;
+    line-height: 1.2rem;
+    font-size: 0.7rem;
+}
+
+.name{
+    font-weight: 900;
+}
+
+.email{
     color: lightskyblue;
+    font-size: 0.7rem;
 }
 
 
